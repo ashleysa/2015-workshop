@@ -52,7 +52,7 @@ Please note, this is an invite-only event. Current participants:
 | Megan Potter | AAS | :+1: | Sunday evening | Thursday noon |
 | Doug Roberts | Microsoft | :+1: |||
 | Thomas Robitaille | MPIA | :+1: (remote) |||
-| Ashley Sands | UCLA | :+1: | Sunday 2pm SFO | Tuesday 9pm SFO |
+| Ashley Sands | UCLA | :+1: | Sunday Noon SFO | Tuesday 9pm SFO |
 | Jonathan Sick | Queen's→LSST | :+1: |||
 | Arfon Smith | GitHub | :+1: | Sunday 2pm |Wednesday am|
 | Julie Steffen | AAS | :+1: | ||
